@@ -9,7 +9,7 @@ Mulitplayer tanks. :star:</p>
 <br></br>
 
 <p>
-Tanks! :see_no_evil:</p>
+Red Player wins because it shooted thier enemy (blue tank ) :see_no_evil:</p>
 ![Alt text] (https://github.com/yesenia223/UnityTanks/blob/master/Screenshots/playerwins.png)
 <br></br>
 

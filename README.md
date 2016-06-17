@@ -1,7 +1,7 @@
 # UnityTanks :cyclone:
 <p>
 created by Yesenia Bastian Parra :exclamation::exclamation:</p>
-<p> This is a game where the player chooses to shoot enemies such as zombunnies, hellaphants, and zombear. </p>
+<p> This is a game where two people can play. Having fun trying to battle their enemy.</p>
 
 <p> 
 The character can shoot from the gun when you click on the right side of the mouse. :star:</p>

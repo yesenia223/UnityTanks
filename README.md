@@ -13,14 +13,5 @@ The player near a zombear. :see_no_evil:</p>
 ![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/zombears.png)
 <br></br>
 
-<p>
-Hellaphants, zombunnies, zombears :bear: </p>
-![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/hellaphant.png)
-<br></br>
-
-<p>
-Buckets!!!!!!!!!!!!!! :smile: </p>
-![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/bukets.png)
-<br></br>
 
 
